@@ -7,9 +7,9 @@
 
 #include "config.h"
 //#include "Lpf2Hub.h"
-#include "LtcHub.h"
-#include "LtcRemote.h"
-#include "LtcTrain.h"
+#include "ltc\LtcHub.h"
+#include "ltc\LtcRemote.h"
+#include "ltc\LtcTrain.h"
 #include "Arduino.h"
 
 // create a hub instance
